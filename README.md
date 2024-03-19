@@ -1,6 +1,3 @@
-Sure, here's a basic template for a README file for your GitHub repository:
-
----
 
 # J.A.R.V.I.S - Just A Rather Very Intelligent System
 
