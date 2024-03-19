@@ -15,7 +15,7 @@ J.A.R.V.I.S is a Streamlit-based chatbot application powered by Google's Gemini 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/GugulothBhuvan/Personal_chatbot_using_gemini_API
    ```
 
 2. Install dependencies:
